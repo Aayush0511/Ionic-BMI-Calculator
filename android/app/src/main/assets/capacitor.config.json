@@ -1,0 +1,6 @@
+{
+	"appId": "com.sparidtech.first-ionic-app",
+	"appName": "BMI Calculator",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
